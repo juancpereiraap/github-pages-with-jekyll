@@ -1,3 +1,1 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+Primera página con GitHub, proximamente estaremos modificándola con Visual Studio Code, y así utilizar un editor de código a nuestro gusto
